@@ -28,3 +28,14 @@ Continue building your app on:
 2. Deploy your chats from the v0 interface
 3. Changes are automatically pushed to this repository
 4. Vercel deploys the latest version from this repository
+
+## Documentation
+
+### Accessibility Guidelines
+
+The Kiara Design System includes comprehensive accessibility documentation to ensure all components and interfaces meet WCAG 2.1 Level AA standards:
+
+- **[Accessibility Dos & Don'ts](./accessibility-dos-donts.md)** - Practical guidelines for building accessible interfaces with code examples, testing checklists, and resources
+- **[Accessibility Audit Report](./accessibility-audit-report.md)** - Current accessibility audit findings and recommendations
+
+These documents provide actionable guidance for developers to create inclusive, accessible experiences for all users.
